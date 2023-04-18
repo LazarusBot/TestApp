@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  TestApp
+
+  Created by Max Prx on 18/04/2023.
+  
+*/
+
+"hello-string" = "Hello Alan,";
+
+"title" = "Continue in French!";
+
+"subtitle" = "Your Lessons";
